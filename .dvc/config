@@ -1,4 +1,4 @@
 [core]
-    remote = storage
-['remote "storage"']
-    url = azure://jrojash.blob.core.windows.net/data
+    remote = myremote
+['remote "myremote"']
+    url = azure://data
