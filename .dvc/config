@@ -2,3 +2,6 @@
     remote = myremote
 ['remote "myremote"']
     url = azure://data
+    account_key = '"m2i0kAB8CEWG1nayEqoYkB40iDhU9G8ARJEXiefxkEFl7Md3NNtl17jlRdZB5cGt7qudWJVwdhZGk3jD4JNLgg=="'
+    account_name = jrojash
+
