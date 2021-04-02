@@ -1,0 +1,5 @@
+outs:
+- md5: 3d0dd56d8102f8a22fdd424dca245091.dir
+  size: 16817255941
+  nfiles: 4
+  path: HiTS_500k
